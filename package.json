@@ -1,0 +1,28 @@
+{
+  "name": "cursoGestionDependenciasPaquetesNPM",
+  "version": "1.0.0",
+  "description": "Curso de Gestión de Dependencias y Paquetes con NPM",
+  "main": "src/randomSms.js",
+  "scripts": {
+    "dev": "node src/randomSms.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbreaker/cursoGesti-nDependenciasPaquetesNPM.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "bin": {
+    "randomName": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "author": "anbreaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbreaker/cursoGesti-nDependenciasPaquetesNPM/issues"
+  },
+  "homepage": "https://github.com/anbreaker/cursoGesti-nDependenciasPaquetesNPM#readme"
+}
